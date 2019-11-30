@@ -1,0 +1,9 @@
+{
+	"name": "@niftykins/eslint-plugin",
+	"version": "0.1.0",
+	"main": "index.js",
+	"dependencies": {
+		"@typescript-eslint/eslint-plugin": "*",
+		"@typescript-eslint/experimental-utils": "*"
+	}
+ }
